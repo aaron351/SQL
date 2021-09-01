@@ -1,0 +1,4 @@
+$env:DATABASE_URL="postgresql://kzfmlfynovtumn:8c099651c9b8fa4c6679eb6ff40d78d7881dc3ba3f7698d86f77d89680d7d54c@ec2-54-145-188-92.compute-1.amazonaws.com:5432/d12drqihn45ppq"
+
+Codigo de set de flask run
+
